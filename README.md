@@ -1,2 +1,2 @@
 # MyBot
-show pwace purpose
+show peace purpose
