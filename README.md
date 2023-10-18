@@ -1,0 +1,2 @@
+# MyBot
+show pwace purpose
